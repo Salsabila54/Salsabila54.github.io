@@ -1,0 +1,25 @@
+{
+    "name": "Sport Reader",
+    "gcm_sender_id": "51247233386",
+    "short_name": "Sport Reader",
+    "description": "Sport Reader memperlihatkan jadwal pertandingan",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#03a9f4",
+    "icons": [
+        {
+            "src": "img/maskable_icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "img/icon-ios.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "gcm_sender_id": "51247233386"
+}

@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  tr #matchTd1{
+    text-align: center;
+  }
+
+  tr #matchTd2{
+    text-align: center;
+  }
+
+  tr #matchTd3{
+    text-align: center;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  tr #matchTd1{
+    text-align: center;
+  }
+
+  tr #matchTd2{
+    text-align: center;
+  }
+
+  tr #matchTd3{
+    text-align: center;
+  }
+}
