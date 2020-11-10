@@ -15,7 +15,7 @@ workbox.precaching.precacheAndRoute([
     { url: '/css/style.css', revision: '1' },
     { url: '/js/materialize/materialize.min.js', revision: '1' },
     { url: '/js/vendor/idb.js', revision: '1' },
-    { url: '/js//db.js', revision: '1' },
+    { url: '/js/db.js', revision: '1' },
     { url: '/js/api.js', revision: '1' },
     { url: '/js/nav.js', revision: '1' },
     { url: '/js/tambahan/register-sw.js', revision: '1' },
